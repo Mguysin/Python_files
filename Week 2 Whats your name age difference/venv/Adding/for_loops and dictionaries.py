@@ -11,8 +11,8 @@ library_accounts= {1: {'name': 'Richard', 'books':3},
 
 for objt in library_accounts.values():
     print(objt.values())
-    for something in objt.values():
-        print(something)
+    # for something in objt.values():
+    #     print(something)
 
 
 
