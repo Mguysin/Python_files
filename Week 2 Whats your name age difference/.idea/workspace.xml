@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82c90f73-31b5-48c5-b047-f3dd0b20492b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Weeks3/OOP comtinued/.idea/OOP comtinued.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weeks3/oopmonster/.idea/oopmonster.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Adding/OOP comtinued/OOP1.py" beforeDir="false" />
-    </list>
+    <list default="true" id="82c90f73-31b5-48c5-b047-f3dd0b20492b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,52 +17,16 @@
         <entry file="file://$PROJECT_DIR$/../Weeks3/OOP comtinued/monster_base.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Weeks3/OOP comtinued/executable_monster_base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Adding/Animals OOP hw/monster_giant.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="19" selection-end-line="18" />
+              <caret line="4" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/Adding/Animals OOP hw/executable_monster_giant.py">
+        <entry file="file://$PROJECT_DIR$/../Weeks3/OOP comtinued/executable_monster_base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Adding/Animals OOP hw/animals1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Adding/Animals OOP hw/animals2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="4" selection-end-line="13" />
+            <state relative-caret-position="170">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -126,10 +85,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1" />
-    <option name="y" value="61" />
-    <option name="width" value="1378" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="40" />
+    <option name="y" value="17" />
+    <option name="width" value="1750" />
     <option name="height" value="850" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -295,10 +254,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="32" y="14" width="1400" height="680" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14597094" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16202345" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.3295905" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -579,13 +538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Weeks3/OOP comtinued/executable_monster_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Adding/Animals OOP hw/monster_giant.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -596,7 +548,7 @@
     <entry file="file://$PROJECT_DIR$/../Weeks3/OOP comtinued/monster_base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-end-line="25" />
+          <caret line="4" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -604,6 +556,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Weeks3/OOP comtinued/executable_monster_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
